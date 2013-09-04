@@ -1,0 +1,8 @@
+apache/
+media/
+static/
+*.pyc
+.idea
+.project
+.pydevproject
+.settings/
