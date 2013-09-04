@@ -1,4 +1,6 @@
 This is the server side application of our bachelor's degree.
+
 Bare in mind that ESAsimilarity.py needs a few prerequisites:
-1. https://github.com/avian2/wikiprep -- to prepare the Wikipedia XML dump
-2. https://github.com/faraday/wikiprep-esa -- to perform indexing with Lucene by feeding it with article content from database
+
+  1. https://github.com/avian2/wikiprep -- to prepare the Wikipedia XML dump
+  2. https://github.com/faraday/wikiprep-esa -- to perform indexing with Lucene by feeding it with article content from database
